@@ -1,0 +1,9 @@
+help
+display-employees
+add-employee 1, bundespraesidialamt@bpra.bund.de, Steinmeier, Frank-Walter, Bundespräsident, 2250000
+add-employee 2, internetpost@bundeskanzlerin.de, Merkel, Angela, Bundeskanzler, 2000000
+display-employees
+display-employee-table
+remove-employee bundespraesidialamt@bpra.bund.de
+display-employee-table
+quit

@@ -1,0 +1,11 @@
+move e2-e4
+move e7-e5
+move G1-F3
+move B8-C6
+move F1-C4
+move G8-F6
+move D2-D3
+move F8-E7
+
+move O-O
+move O-O
